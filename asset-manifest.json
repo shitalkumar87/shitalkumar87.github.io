@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.6e6b543e.css",
-    "main.js": "/static/js/main.f6fc457d.js",
+    "main.js": "/static/js/main.29f34b86.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Shital_Suman_Resume.pdf": "/static/media/Shital_Suman_Resume.1b18233cc37c35bec76d.pdf",
     "index.html": "/index.html",
     "main.6e6b543e.css.map": "/static/css/main.6e6b543e.css.map",
-    "main.f6fc457d.js.map": "/static/js/main.f6fc457d.js.map",
+    "main.29f34b86.js.map": "/static/js/main.29f34b86.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6e6b543e.css",
-    "static/js/main.f6fc457d.js"
+    "static/js/main.29f34b86.js"
   ]
 }
