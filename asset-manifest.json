@@ -1,14 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.bf538fe7.css",
-    "main.js": "/static/js/main.08d686e8.js",
+    "main.js": "/static/js/main.c83dbfc1.js",
     "static/media/shital_suman.jpg": "/static/media/shital_suman.40cacb923dd553b2e074.jpg",
+    "static/media/Shital_Suman_Resume.pdf": "/static/media/Shital_Suman_Resume.b3f2bca8f3550c4d90fa.pdf",
     "index.html": "/index.html",
     "main.bf538fe7.css.map": "/static/css/main.bf538fe7.css.map",
-    "main.08d686e8.js.map": "/static/js/main.08d686e8.js.map"
+    "main.c83dbfc1.js.map": "/static/js/main.c83dbfc1.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.08d686e8.js"
+    "static/js/main.c83dbfc1.js"
   ]
 }
